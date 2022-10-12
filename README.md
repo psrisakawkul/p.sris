@@ -1,2 +1,1 @@
-# p.sris
-Python for data analytic
+# Python for data analytic
