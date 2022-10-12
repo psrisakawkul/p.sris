@@ -1,1 +1,1 @@
-# Python for data analytic
+# Python for data analyst
